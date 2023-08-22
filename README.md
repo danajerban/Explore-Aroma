@@ -1,13 +1,14 @@
-# Explore-The-Aroma 2.0
+# Explore The Aroma 2.0
 
 Explore the Aroma is an application designed to assist users in finding perfumes based on their preferred ingredients or scents.
 
+Original repo: https://github.com/Pastlenomad/Explore-The-Aroma
 
-Original project: https://github.com/Pastlenomad/Explore-The-Aroma
+---
 
-# To run this app:
+### To run this app:
 
-- Clone the repository and open it in your preferred source code editor.
+**Clone the repository and open it in your preferred source code editor.**
 
 - **Run Back End:**
 1. Open your terminal and navigate to the server folder: **cd server**
@@ -25,15 +26,15 @@ Original project: https://github.com/Pastlenomad/Explore-The-Aroma
 
 ---
 
-# Refactoring:
+### Refactoring:
 
-**The original code:**
+**Original Repo:**
 - Javascript 89.5%
 - CSS 8.2%
 - HTML 2.3%
 - Built with React.js
 
----
+
 
 **Refactor:**
 - TypeScript 85.0%
@@ -45,23 +46,18 @@ Original project: https://github.com/Pastlenomad/Explore-The-Aroma
 - Creation of a MongoDB/Mongoose and Express Back-End and deletion of hard data files.
 
 
-# Stack:
+### Stack Used:
 
-- **FRONT-END:**
-Next.js
-TypeScript
-Jest
+- Next.js
+- Node.js
+- Express
+- Typescript
+- MongoDB with Mongoose
 
-- **BACK-END:**
-Node.js
-Express
-Jest
-MongoDB - Mongoose
-
-![HomePage1](https://github.com/danajerban/Explore-Aroma/screenshots/3)
-![HomePage2](https://github.com/danajerban/Explore-Aroma/screenshots/4)
-![HomePage3](https://github.com/danajerban/Explore-Aroma/screenshots/5)
-![HomePage4](https://github.com/danajerban/Explore-Aroma/screenshots/6)
-![Auth1](https://github.com/danajerban/Explore-Aroma/screenshots/2)
-![Auth2](https://github.com/danajerban/Explore-Aroma/screenshots/7)
+![HomePage1](https://github.com/danajerban/Explore-Aroma/screenshots/3.png)
+![HomePage2](https://github.com/danajerban/Explore-Aroma/screenshots/4.png)
+![HomePage3](https://github.com/danajerban/Explore-Aroma/screenshots/5.png)
+![HomePage4](https://github.com/danajerban/Explore-Aroma/screenshots/6.png)
+![Auth1](https://github.com/danajerban/Explore-Aroma/screenshots/2.png)
+![Auth2](https://github.com/danajerban/Explore-Aroma/screenshots/7.png)
 
