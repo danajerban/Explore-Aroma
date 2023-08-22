@@ -49,16 +49,16 @@ Original repo: https://github.com/Pastlenomad/Explore-The-Aroma
 
 ## Stack Used:
 
-- Next.js
-- Node.js
-- Express
-- Typescript
-- MongoDB with Mongoose
+- **Next.js**
+- **Node.js**
+- **Express**
+- **Typescript**
+- **MongoDB with Mongoose**
 
-![HomePage1](https://postimg.cc/YGXm0zsf)
-![HomePage2](https://postimg.cc/svGZfS97)
-![HomePage3](https://postimg.cc/yWdZ52Df)
-![HomePage4](https://postimg.cc/rRKRrt66)
-![Auth1](https://postimg.cc/QVyTrS5j)
-![Auth2](https://postimg.cc/Q9NTjy0d)
+![HomePage1](https://i.postimg.cc/8cGdyyd3/3.png)
+![HomePage2](https://i.postimg.cc/282dw71c/4.png)
+![HomePage3](https://i.postimg.cc/y6hyJHsz/5.png)
+![HomePage4](https://i.postimg.cc/2yxQg425/6.png)
+![Auth1](https://i.postimg.cc/pX2Yz6L5/2.png)
+![Auth2](https://i.postimg.cc/LXLB3dPL/7.png)
 
