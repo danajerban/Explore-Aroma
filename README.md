@@ -6,7 +6,7 @@ Original repo: https://github.com/Pastlenomad/Explore-The-Aroma
 
 ---
 
-### To run this app:
+## To run this app:
 
 **Clone the repository and open it in your preferred source code editor.**
 
@@ -26,27 +26,28 @@ Original repo: https://github.com/Pastlenomad/Explore-The-Aroma
 
 ---
 
-### Refactoring:
+## Refactoring:
 
-**Original Repo:**
-- Javascript 89.5%
-- CSS 8.2%
-- HTML 2.3%
-- Built with React.js
-
-
-
-**Refactor:**
-- TypeScript 85.0%
-- JavaScript 3.5%
-- SS 11.5%
-- Built with Next.js
-- Reducing 2/3 of the original code
-- Achieving a 85% in performance and 100% in accessibility and SEO according to LightHouse and Axe DevTools.
-- Creation of a MongoDB/Mongoose and Express Back-End and deletion of hard data files.
+- **Original Repo:**
+   - Javascript 89.5%
+   - CSS 8.2%
+   - HTML 2.3%
+   - Built with React.js
 
 
-### Stack Used:
+
+- **Refactor:**
+   - TypeScript 85.0%
+   - JavaScript 3.5%
+   - CSS 11.5%
+   - Built with Next.js
+   - Reducing 2/3 of the original code
+   - Achieving a 85% in performance and 100% in accessibility and SEO according to LightHouse and Axe DevTools.
+   - Creation of a MongoDB/Mongoose and Express Back-End and deletion of hard data files.
+
+---
+
+## Stack Used:
 
 - Next.js
 - Node.js
@@ -54,10 +55,10 @@ Original repo: https://github.com/Pastlenomad/Explore-The-Aroma
 - Typescript
 - MongoDB with Mongoose
 
-![HomePage1](https://github.com/danajerban/Explore-Aroma/screenshots/3.png)
-![HomePage2](https://github.com/danajerban/Explore-Aroma/screenshots/4.png)
-![HomePage3](https://github.com/danajerban/Explore-Aroma/screenshots/5.png)
-![HomePage4](https://github.com/danajerban/Explore-Aroma/screenshots/6.png)
-![Auth1](https://github.com/danajerban/Explore-Aroma/screenshots/2.png)
-![Auth2](https://github.com/danajerban/Explore-Aroma/screenshots/7.png)
+![HomePage1](https://postimg.cc/YGXm0zsf)
+![HomePage2](https://postimg.cc/svGZfS97)
+![HomePage3](https://postimg.cc/yWdZ52Df)
+![HomePage4](https://postimg.cc/rRKRrt66)
+![Auth1](https://postimg.cc/QVyTrS5j)
+![Auth2](https://postimg.cc/Q9NTjy0d)
 
